@@ -4,6 +4,14 @@
   justify-content: space-between;
 }
 
+.newitem {
+  display: flex;
+}
+
+.newcard {
+  display: flex;
+}
+
 .item {
   flex: 0 15%;
   height: 30px;
